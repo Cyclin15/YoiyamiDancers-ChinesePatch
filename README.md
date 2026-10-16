@@ -6,7 +6,7 @@
 
 ## 下载
 
-前往 [Releases](../../releases) 页面下载 `YoiyamiDancers_汉化包_v1.4.2.zip`。
+前往 [Releases](../../releases) 页面下载 `YoiyamiDancers_ChinesePatch_v1.4.2.zip`（约 29 MB）。
 
 ## 安装方法
 
